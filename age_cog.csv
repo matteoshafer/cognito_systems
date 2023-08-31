@@ -1,0 +1,9 @@
+# ----------------------------------------,,,,,,,,,
+# Report CSV Export,,,,,,,,,
+# Account: Cognito Systems, LLC,,,,,,,,
+Age,Users,New users,Engaged sessions,Engagement rate,Engaged sessions per user,Average engagement time,Event count,Conversions,Total revenue
+unknown,192,188,112,0.457142857,0.583333333,25.60416667,1150,41,0
+25-34,22,21,16,0.592592593,0.727272727,51.81818182,158,5,0
+35-44,15,13,14,0.736842105,0.933333333,75.8,127,4,0
+45-54,14,14,12,0.705882353,0.857142857,33.14285714,102,1,0
+55-64,13,13,7,0.5,0.538461538,47.38461538,84,1,0
